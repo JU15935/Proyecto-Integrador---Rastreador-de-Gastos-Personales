@@ -182,3 +182,4 @@ Comparación con promedios nacionales/regionales
 Este proyecto demuestra conocimientos avanzados en modelado de 
 datos para sistemas financieros, incluyendo consideraciones de 
 seguridad, integridad de datos y análisis financiero personal.
+  
